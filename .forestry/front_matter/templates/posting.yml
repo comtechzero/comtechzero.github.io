@@ -2,4 +2,16 @@
 label: posting
 hide_body: false
 fields:
+- name: tes
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: tes
 - type: text
+  name: kwkw
+  label: tes
+  description: tes
