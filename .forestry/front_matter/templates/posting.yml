@@ -15,3 +15,5 @@ fields:
   name: kwkw
   label: tes
   description: tes
+pages:
+- _posts/sample.md
