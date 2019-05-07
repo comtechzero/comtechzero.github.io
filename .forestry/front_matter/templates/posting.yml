@@ -1,0 +1,5 @@
+---
+label: posting
+hide_body: false
+fields:
+- type: text
